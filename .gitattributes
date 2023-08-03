@@ -1,0 +1,6 @@
+data/mini-train.csv filter=lfs diff=lfs merge=lfs -text
+data/mini-valid.csv filter=lfs diff=lfs merge=lfs -text
+data/data.csv filter=lfs diff=lfs merge=lfs -text
+data/mini-data.csv filter=lfs diff=lfs merge=lfs -text
+data/mini-test.csv filter=lfs diff=lfs merge=lfs -text
+data/fp/ecfp4.csv filter=lfs diff=lfs merge=lfs -text
